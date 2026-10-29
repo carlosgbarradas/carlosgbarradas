@@ -1,4 +1,4 @@
-# Hi, I'm Carlos García Barradas 
+# Hi, I'm Carlos García  
 
 I'm a **Data Science and Mathematics Engineering student at Tecnológico de Monterrey, Mexico City campus**, interested in machine learning, software development, and electronics.
 

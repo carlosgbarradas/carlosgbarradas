@@ -1,11 +1,11 @@
-# Hi, I'm Carlos García Barradas 👋
+# Hi, I'm Carlos García Barradas 
 
 I'm a **Data Science and Mathematics Engineering student at Tecnológico de Monterrey, Mexico City campus**, interested in machine learning, software development, and electronics.
 
 I enjoy connecting mathematics and programming to understand data and solve real-world problems.
 
 ### Tools I’m working with
-Python · SQL · C++ · pandas · NumPy · Databricks
+Python · SQL · C++ · pandas · NumPy · Databricks 
 
 ### Current project
 **Taco Bueno Pricing & Promotion Analytics**  
